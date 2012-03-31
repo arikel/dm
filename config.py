@@ -9,3 +9,4 @@ KEY_RIGHT = pygame.K_d
 KEY_TURN_LEFT = pygame.K_a
 KEY_TURN_RIGHT = pygame.K_e
 KEY_ESCAPE = pygame.K_ESCAPE
+KEY_SPACE = pygame.K_SPACE
